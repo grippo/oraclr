@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Angular Express Seed
 
 Start an awesome app with AngularJS on the front, Express + Node on the back. This project is an
@@ -79,3 +80,9 @@ your friends.
 
 ## License
 MIT
+=======
+oraclr
+======
+
+El buscador del futuro
+>>>>>>> a02327cbe49df9a24b06aaaec277f14c0a9e1d04
